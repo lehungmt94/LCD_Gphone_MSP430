@@ -16,7 +16,7 @@ LCD Gphone library là bộ thư viện giúp cho MSP430G2553 có thể điều 
 
 # Kết nối LCD với MSP430G2553 
 
--CS		BIT3 //Chon chip P2.3
--SDA	    BIT0 //Data SPI P2.0
--AO      BIT1 //Chot du lieu Command va Data (C/D) P2.1
--SCK	    BIT2 //Clock SPI  P2.2
+- CS		BIT3 //Chon chip P2.3
+- SDA	    BIT0 //Data SPI P2.0
+- AO      BIT1 //Chot du lieu Command va Data (C/D) P2.1
+- SCK	    BIT2 //Clock SPI  P2.2
