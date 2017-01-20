@@ -1,8 +1,11 @@
 # LCD_Gphone_MSP430
 
 Email: lehungmt94@gmail.com 
+
 Facebook: facebook.com/mculearning 
+
 Website: mculearning.wordpress.com 
+
 GitHub: github.com/lehungmt94 
 
 # Giới thiệu
